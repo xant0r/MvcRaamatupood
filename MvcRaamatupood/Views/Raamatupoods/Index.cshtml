@@ -1,0 +1,67 @@
+﻿@model IEnumerable<MvcRaamatupood.Models.Raamatupood>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Raamatupood</h2>
+
+<p>
+    @Html.ActionLink("Loo uus", "Create")
+
+    @using (Html.BeginForm("Index","Raamatupoods",FormMethod.Get)) 
+    {
+    <p>
+        Autor: @Html.DropDownList("raamatupoodAutor", "All")
+        Pealkiri: @Html.TextBox("SearchString") <br />
+        <input type="submit" value="Filtreeri" />
+    </p>
+    }
+    
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Pealkiri)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Autor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IlmumisAasta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Kirjastus)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Hind)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pealkiri)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Autor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IlmumisAasta)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Kirjastus)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Hind)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>

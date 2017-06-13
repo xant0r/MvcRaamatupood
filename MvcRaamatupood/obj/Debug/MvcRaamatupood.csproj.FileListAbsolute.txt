@@ -1,0 +1,342 @@
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.dll.config
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.pdb
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Antlr3.Runtime.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.SqlServer.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Google.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Web.Infrastructure.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Newtonsoft.Json.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Owin.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Helpers.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Mvc.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Optimization.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Razor.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Deployment.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Razor.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\WebGrease.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Helpers.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Mvc.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Optimization.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Razor.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Deployment.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Razor.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Antlr3.Runtime.pdb
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Newtonsoft.Json.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.SqlServer.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Google.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.csprojResolveAssemblyReference.cache
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.dll
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.pdb
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.Migrations.Initial.resources
+H:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.csproj.GenerateResource.Cache
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.dll.config
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.pdb
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Antlr3.Runtime.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.SqlServer.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Newtonsoft.Json.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Owin.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Helpers.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Mvc.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Optimization.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Razor.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Razor.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\WebGrease.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Helpers.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Mvc.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Optimization.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Razor.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Razor.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Antlr3.Runtime.pdb
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Newtonsoft.Json.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.SqlServer.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.csprojResolveAssemblyReference.cache
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.Migrations.Initial.resources
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.csproj.GenerateResource.Cache
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.dll
+C:\Users\Helen\Desktop\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.pdb
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.dll.config
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.pdb
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Antlr3.Runtime.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.SqlServer.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Core.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Owin.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Host.SystemWeb.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Cookies.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Facebook.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Google.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.OAuth.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Twitter.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Web.Infrastructure.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Newtonsoft.Json.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Owin.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Helpers.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Mvc.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Optimization.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Razor.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Deployment.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Razor.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\WebGrease.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Helpers.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Mvc.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Optimization.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Razor.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Deployment.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Razor.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Antlr3.Runtime.pdb
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Newtonsoft.Json.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.SqlServer.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Core.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Owin.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Host.SystemWeb.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Facebook.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Cookies.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.OAuth.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Google.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Twitter.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.csprojResolveAssemblyReference.cache
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.Migrations.Initial.resources
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.csproj.GenerateResource.Cache
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.dll
+P:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.pdb
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.dll.config
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.pdb
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Antlr3.Runtime.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.SqlServer.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Core.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Owin.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Cookies.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Facebook.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Google.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.OAuth.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Twitter.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Web.Infrastructure.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Newtonsoft.Json.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Owin.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Helpers.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Mvc.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Optimization.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Razor.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Deployment.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Razor.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\WebGrease.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Helpers.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Mvc.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Optimization.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Razor.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Deployment.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Razor.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Antlr3.Runtime.pdb
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Newtonsoft.Json.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.SqlServer.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Core.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Owin.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Facebook.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Cookies.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.OAuth.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Google.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Twitter.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.csprojResolveAssemblyReference.cache
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.Migrations.Initial.resources
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.csproj.GenerateResource.Cache
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.dll
+K:\Kool\TTHK\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.pdb
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.dll.config
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.pdb
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Antlr3.Runtime.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.SqlServer.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Newtonsoft.Json.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Owin.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Helpers.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Mvc.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Optimization.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Razor.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Razor.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\WebGrease.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Helpers.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Mvc.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Optimization.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Razor.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Razor.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Antlr3.Runtime.pdb
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Newtonsoft.Json.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.SqlServer.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.csprojResolveAssemblyReference.cache
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.Migrations.Initial.resources
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.csproj.GenerateResource.Cache
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.dll
+C:\Users\Xant0r\Desktop\Programeerimine\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.pdb
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.dll.config
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\MvcRaamatupood.pdb
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Antlr3.Runtime.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.SqlServer.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Newtonsoft.Json.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Owin.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Helpers.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Mvc.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Optimization.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Razor.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Razor.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\WebGrease.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Helpers.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Mvc.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Optimization.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\System.Web.Razor.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\System.Web.WebPages.Razor.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Antlr3.Runtime.pdb
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Newtonsoft.Json.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\EntityFramework.SqlServer.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.csprojResolveAssemblyReference.cache
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.Migrations.Initial.resources
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.csproj.GenerateResource.Cache
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.dll
+C:\Users\Xant0r\Documents\Visual Studio 2015\Projects\MvcRaamatupood\MvcRaamatupood\obj\Debug\MvcRaamatupood.pdb
